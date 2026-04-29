@@ -25,6 +25,17 @@ System built in Python. Designed for small to medium retail shops.
 - SQLite (7 databases)
 - openpyxl
 
+## Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Advanced Reports
+![Reports](reports.png)
+
+### POS & Billing
+![POS](pos.png)
+
 ## Target Market
 
 Small retail shops, general stores, pharmacies, 
